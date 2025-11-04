@@ -6,7 +6,7 @@
 <img src="docs/images/presentation/slide-2.png" alt="목차 슬라이드" width="360" />
 
 ## 목표
-- Intel GETi (MLOPs) 활용
+
 - 데이터 어노테이션 > GETi 제공 모델 활용 및 파라메터 수정
 - X-ray 영상을 사람이 분석하여 발생하는 실수를 방지하고, 보다 신뢰할 수 있는 검출 결과를 제공하는 시스템 구축
 
@@ -15,6 +15,7 @@
 ## 데이터셋
 - AI Hub 데이터를 활용
 - 총 1,147장의 X-ray 이미지 사용
+- Intel GETi (MLOPs) 활용
 
 <img src="docs/images/presentation/slide-4.png" alt="데이터셋 슬라이드" width="600" />
 
